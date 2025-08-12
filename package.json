@@ -1,0 +1,12 @@
+{
+  "name": "@bommer153/hide-name",
+  "version": "1.0.0",
+  "description": "Function to mask name",
+  "main": "index.js",
+  "author": "Jefferson Jalandoon",
+  "license": "ISC",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }  
+}
